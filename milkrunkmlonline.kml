@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Milk Run</name>
+    <description/>
+    <NetworkLink>
+      <name>Milk Run</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1g7O9Xu6lwxXdLshLjNQVP3UZsoI0vKGX]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
