@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Combined SS and LEZ</name>
+    <description/>
+    <NetworkLink>
+      <name>Combined SS and LEZ</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1VUK92C0nE5BBCpm32oo-mg3Lj1Vj9f4]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
